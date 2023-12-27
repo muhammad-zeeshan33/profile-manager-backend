@@ -6,9 +6,9 @@ Profile Manager React Backend
 
 ## Table of Contents
 
-- [COMPLETED TASK CHECKPOINTS ](#checkpoints)
+- [CHECKPOINTS ](#checkpoints)
 
-## Check Points
+## checkpoints
 
 - [ ] Used Sequelize ORM for db connection and querying
 - [ ] Used MVC Architecture
@@ -16,6 +16,8 @@ Profile Manager React Backend
 - [ ] Added middlewares for guarding protected routes
 - [ ] Users information is being updating by fetching token from the request
 - [ ] Used Migrations for database seeding and creation
+
+
 
 
 
