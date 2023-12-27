@@ -1,5 +1,7 @@
 # Project Name
 
+Profile Manager
+
 ## Description
 
 Profile Manager React Backend
@@ -10,12 +12,16 @@ Profile Manager React Backend
 
 ## checkpoints
 
-- [ ] Used ATOMIC Design Pattern
-- [ ] Used Context for providing data to child components
-- [ ] used useRef for obtaining current value on target of ref ( in login/register components)
-- [ ] Made Login and Register Screens
-- [ ] Made Seperate Components for form building (Inputs, Buttons)
-- [ ] Protected non public routes using auth guard
+- [ ] Used Sequelize ORM for db connection and querying
+- [ ] Used MVC Architecture
+- [ ] Password Encryption Added using bcryptjs
+- [ ] Added middlewares for guarding protected routes
+- [ ] Users information is being updating by fetching token from the request
+- [ ] Used Migrations for database seeding and creation
+
+
+
+
 
 
 
