@@ -2,7 +2,7 @@
 
 ## Description
 
-Profile Manager React frontend
+Profile Manager React Backend
 
 ## Table of Contents
 
@@ -10,9 +10,14 @@ Profile Manager React frontend
 
 ## Check Points
 
-- [ ] Checkpoint 1
-- [ ] Checkpoint 2
-- [ ] Checkpoint 3
+- [ ] Used Sequelize ORM for db connection and querying
+- [ ] Used MVC Architecture
+- [ ] Password Encryption Added using bcryptjs
+- [ ] Added middlewares for guarding protected routes
+- [ ] Users information is being updating by fetching token from the request
+- [ ] Used Migrations for database seeding and creation
+
+
 
 
 
